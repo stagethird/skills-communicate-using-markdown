@@ -7,3 +7,9 @@ This `index.md` file is a lesson in markdown file features.
 ---
 
 * This is the first commit.
+
+## Second step of _Markdown_ lesson
+
+* Add an image
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
