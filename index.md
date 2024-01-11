@@ -41,3 +41,9 @@ else
   machine=$1
 fi
 ```
+- [x] Finish step 4 of Markdown lesson
+- [ ] Merge branch?
+- [ ] Finish lesson
+- [ ] Profit!
+
+* Note that the checkboxes are __not__ interactive 😢
