@@ -8,13 +8,13 @@ This `index.md` file is a lesson in markdown file features.
 
 * This is the first commit.
 
+<img src=https://octodex.github.com/images/yaktocat.png width=300 align=right>
+
 ## Second step of _Markdown_ lesson
 
 * Add an image :tada:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-## Code sample samples
+## Third step - Code sample samples
 #### Python:
 
 ``` python
@@ -41,6 +41,8 @@ else
   machine=$1
 fi
 ```
+## Fourth step of _Markdown_ lesson
+#### Checklists!
 - [x] Finish step 4 of Markdown lesson
 - [ ] Merge branch?
 - [ ] Finish lesson
