@@ -42,9 +42,34 @@ fi
 ```
 ## Fourth step of _Markdown_ lesson
 #### Checklists!
-- [x] Finish step 4 of Markdown lesson
+- [x] Finish step 4 of Markdown lesson.
 - [ ] Merge branch?
-- [ ] Finish lesson
+- [ ] Finish lesson.
 - [ ] Profit!
 
 * Note that the checkboxes are __not__ interactive 😢
+
+## Trying some additional tricks
+
+1. Add a hyperlink to the published HTML version of this document on
+[GitHub pages](https://stagethird.github.io/skills-communicate-using-markdown/)
+2. Add a link from the HTML version to the project main page. 
+[Markdown project](https://github.com/stagethird/skills-communicate-using-markdown)
+3. Collapsed Text
+<details>
+
+<summary>Click here to see details!</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+More details can be found here:
+[Github Docs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections)
+</details>
